@@ -39,6 +39,45 @@
             "path": "Tweaks/dev.circulars.iphonex-respring.purekfd",
             "screenshots": ["Assets/screenshot.png"],
             "category": "Theming"
-        }
+        },
+        {
+            "name": "Comic Sans MS",
+            "bundleid": "com.leemin.comicsans",
+            "author": "LeminLimez",
+            "description": "The best font",
+            "long_description":"Ever wanted to see the best font in the world on your phone? This time it is ported correctly, with headers working properly.",
+            "version": "1.0",
+            "icon": "Assets/icon.png",
+            "banner": "Assets/banner.png",
+            "path": "LeminArchive/com.leemin.comicsans.purekfd",
+            "screenshots": ["LeminArchive/screenshot0.png"],
+            "category": "Lemin Repo Archive"
+        },
+        {
+            "name": "Huawei P30 Pro",
+            "bundleid": "com.leemin.huaweip30pro",
+            "author": "LeminLimez",
+            "description": "Change your model name",
+            "long_description":"Changes your device's model name to a Huawei P30 Pro in settings.",
+            "version": "1.0",
+            "icon": "Assets/icon.png",
+            "banner": "Assets/banner.png",
+            "path": "LeminArchive/com.leemin.huaweip30pro.purekfd",
+            "screenshots": ["LeminArchive/screenshot1.jpg"],
+            "category": "Lemin Repo Archive"
+        },
+        {
+            "name": "Samsung Discord Ping",
+            "bundleid": "com.leemin.samsungdiscordping",
+            "author": "LeminLimez",
+            "description": "Change the Discord ping sound to Samsung",
+            "long_description":"Changes your discord ping sound to the Samsung notification sound.",
+            "version": "1.0",
+            "icon": "Assets/icon.png",
+            "banner": "Assets/banner.png",
+            "path": "LeminArchive/com.leemin.samsungdiscordping.purekfd",
+            "screenshots": [],
+            "category": "Lemin Repo Archive"
+        },
     ]
 }
