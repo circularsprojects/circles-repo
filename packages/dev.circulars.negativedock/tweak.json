@@ -1,0 +1,17 @@
+{
+  "operations" : [
+    {
+      "replacementFileName" : "assets\/dockDark.materialrecipe",
+      "replacementFileBundled" : true,
+      "type" : "replacing",
+      "originPath" : "\/System\/Library\/PrivateFrameworks\/CoreMaterial.framework\/dockDark.materialrecipe"
+    },
+    {
+      "replacementFileName" : "assets\/dockLight.materialrecipe",
+      "replacementFileBundled" : true,
+      "type" : "replacing",
+      "originPath" : "\/System\/Library\/PrivateFrameworks\/CoreMaterial.framework\/dockLight.materialrecipe"
+    }
+  ],
+  "spec" : "1.0"
+}

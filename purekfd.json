@@ -1,0 +1,26 @@
+{
+    "spec": "1.0",
+    "repotype":"purekfdextended",
+    "name": "circular's tweaks",
+    "description": "ports and other random doodads",
+    "icon": "icon.png",
+    "featured": [
+        {
+          "name": "Negative Dock",
+          "bundleid": "dev.circulars.negativedock",
+          "banner": "banner.png"
+        }
+    ],
+    "packages": [
+        {
+        	"name": "Negative Dock",
+        	"bundleid": "dev.circulars.negativedock",
+        	"author": "circular",
+        	"description": "makes ur dock inverted kinda",
+        	"version": "1.0",
+        	"icon": "icon.png",
+        	"path": "packages/dev.circulars.negativedock.purekfd",
+            "category":"Theming"
+        }
+    ]
+}
