@@ -9,6 +9,11 @@
           "name": "Negative Dock",
           "bundleid": "dev.circulars.negativedock",
           "banner": "Assets/banner.png"
+        },
+        {
+          "name": "Respring Logo",
+          "bundleid": "dev.circulars.iphonex-respring",
+          "banner": "Assets/banner.png"
         }
     ],
     "packages": [
