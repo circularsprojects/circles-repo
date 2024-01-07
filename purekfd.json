@@ -3,24 +3,37 @@
     "repotype":"purekfdextended",
     "name": "circular's tweaks",
     "description": "ports and other random doodads",
-    "icon": "icon.png",
+    "icon": "Assets/icon.png",
     "featured": [
         {
           "name": "Negative Dock",
           "bundleid": "dev.circulars.negativedock",
-          "banner": "banner.png"
+          "banner": "Assets/banner.png"
         }
     ],
     "packages": [
         {
-        	"name": "Negative Dock",
-        	"bundleid": "dev.circulars.negativedock",
-        	"author": "circular",
-        	"description": "makes ur dock inverted kinda",
-        	"version": "1.0",
-        	"icon": "icon.png",
-        	"path": "packages/dev.circulars.negativedock.purekfd",
-            "category":"Theming"
+            "name": "Negative Dock",
+            "bundleid": "dev.circulars.negativedock",
+            "author": "circular & hackzy",
+            "description": "makes ur dock inverted kinda",
+            "version": "1.0",
+            "icon": "Assets/icon.png",
+            "banner": "Assets/banner.png",
+            "path": "Tweaks/dev.circulars.negativedock.purekfd",
+            "category": "Theming"
+        },
+        {
+            "name": "Respring Logo",
+            "bundleid": "dev.circulars.iphonex-respring",
+            "author": "circular & ichitaso",
+            "description": "changes ur respring logo",
+            "version": "1.0",
+            "icon": "Assets/icon.png",
+            "banner": "Assets/banner.png",
+            "path": "Tweaks/dev.circulars.iphonex-respring.purekfd",
+            "screenshots": ["Assets/screenshot.png"],
+            "category": "Theming"
         }
     ]
 }
