@@ -64,7 +64,8 @@
             "banner": "Assets/banner.png",
             "path": "LeminArchive/com.leemin.huaweip30pro.purekfd",
             "screenshots": ["LeminArchive/screenshot1.jpg"],
-            "category": "Lemin Repo Archive"
+            "category": "Lemin Repo Archive",
+            "varOnly":true
         },
         {
             "name": "Samsung Discord Ping",
@@ -78,6 +79,6 @@
             "path": "LeminArchive/com.leemin.samsungdiscordping.purekfd",
             "screenshots": [],
             "category": "Lemin Repo Archive"
-        },
+        }
     ]
 }
